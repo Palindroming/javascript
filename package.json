@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "axios": "^1.7.4",
+    "xmlhttprequest": "^1.8.0"
+  },
+  "name": "javascript",
+  "version": "1.0.0",
+  "main": "get_band.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
